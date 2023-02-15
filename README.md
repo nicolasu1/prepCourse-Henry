@@ -1,2 +1,1 @@
-# prepCourse-Henry
-repositorio de prueba
+este proyecto de prueba de como crear un repositorio
